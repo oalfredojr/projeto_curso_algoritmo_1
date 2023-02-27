@@ -1,12 +1,4 @@
-//
 
-/*
-vem deslizando vaiii
-ela me pede bem!!
-
-chama bb
-
-*/
 
 var nome, idade;
 nome = prompt("Digite o seu nome:")
